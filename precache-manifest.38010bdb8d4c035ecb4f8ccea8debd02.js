@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "94213db62592605e083336f232f6cc08",
+    "revision": "8b49cb8b539b01330206b2eb56a65226",
     "url": "/my-vital-frontend/index.html"
   },
   {
-    "revision": "72ce3be61d70c9a8d159",
+    "revision": "86d83ffa5b6fb673cf90",
     "url": "/my-vital-frontend/static/css/main.3033943a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-vital-frontend/static/js/2.882aed24.chunk.js.LICENSE"
   },
   {
-    "revision": "72ce3be61d70c9a8d159",
-    "url": "/my-vital-frontend/static/js/main.d4df887b.chunk.js"
+    "revision": "86d83ffa5b6fb673cf90",
+    "url": "/my-vital-frontend/static/js/main.4124d653.chunk.js"
   },
   {
     "revision": "122c02f0f79ee8ad5dc6",

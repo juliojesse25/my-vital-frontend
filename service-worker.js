@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/my-vital-frontend/precache-manifest.60e0a514f3c9dfacc91840621ee95ab4.js"
+  "/my-vital-frontend/precache-manifest.38010bdb8d4c035ecb4f8ccea8debd02.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/my-vital-frontend/static/css/main.3033943a.chunk.css",
-    "main.js": "/my-vital-frontend/static/js/main.d4df887b.chunk.js",
-    "main.js.map": "/my-vital-frontend/static/js/main.d4df887b.chunk.js.map",
+    "main.js": "/my-vital-frontend/static/js/main.4124d653.chunk.js",
+    "main.js.map": "/my-vital-frontend/static/js/main.4124d653.chunk.js.map",
     "runtime-main.js": "/my-vital-frontend/static/js/runtime-main.391a3681.js",
     "runtime-main.js.map": "/my-vital-frontend/static/js/runtime-main.391a3681.js.map",
     "static/js/2.882aed24.chunk.js": "/my-vital-frontend/static/js/2.882aed24.chunk.js",
     "static/js/2.882aed24.chunk.js.map": "/my-vital-frontend/static/js/2.882aed24.chunk.js.map",
     "index.html": "/my-vital-frontend/index.html",
-    "precache-manifest.60e0a514f3c9dfacc91840621ee95ab4.js": "/my-vital-frontend/precache-manifest.60e0a514f3c9dfacc91840621ee95ab4.js",
+    "precache-manifest.38010bdb8d4c035ecb4f8ccea8debd02.js": "/my-vital-frontend/precache-manifest.38010bdb8d4c035ecb4f8ccea8debd02.js",
     "service-worker.js": "/my-vital-frontend/service-worker.js",
     "static/css/main.3033943a.chunk.css.map": "/my-vital-frontend/static/css/main.3033943a.chunk.css.map",
     "static/js/2.882aed24.chunk.js.LICENSE": "/my-vital-frontend/static/js/2.882aed24.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.391a3681.js",
     "static/js/2.882aed24.chunk.js",
     "static/css/main.3033943a.chunk.css",
-    "static/js/main.d4df887b.chunk.js"
+    "static/js/main.4124d653.chunk.js"
   ]
 }
