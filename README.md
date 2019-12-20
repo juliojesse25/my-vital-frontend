@@ -1,6 +1,7 @@
 ## My Vital Frotend
 
 **_Description_**
+
 This is the Frontend of the Vital Full Stack web application. A user is required to register with a Name, Email, Password and Password Confirmation. When logged in, the user gets to see their profile which shows their name, email, number of logins and the last login.
 
 **_Setup Instructions_**
@@ -19,6 +20,7 @@ This is the Frontend of the Vital Full Stack web application. A user is required
 - SCSS
 
 **_API_**
+
 [Vital-API](https://github.com/juliojesse25/vital-api)
 
 **_Future Features_**
@@ -28,7 +30,11 @@ This is the Frontend of the Vital Full Stack web application. A user is required
 - Add a way for a user to change passwords when they are logged in.
 
 **_Wire Frames_**
+
 https://imgur.com/spr5xY6
+
 **_Links_**
+
 Link to frontend repo: https://github.com/juliojesse25/my-vital-frontend
+
 Link to backend repo: https://github.com/juliojesse25/vital-api
